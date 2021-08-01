@@ -1,5 +1,9 @@
 # Invoice processing
 
+## Library documentation
+
+- [transformer: layoutLM](https://huggingface.co/transformers/model_doc/layoutlm.html)
+
 ## State of the art documentation
 
 - [Gradient-Based Learning Applied to document Recognition](https://github.com/jhubar/invoiceProcessing/blob/master/Documentation/lecun-98.pdf)
