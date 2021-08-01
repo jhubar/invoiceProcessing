@@ -15,7 +15,6 @@
 
 A standard performance indicator for object detection is to evaluate the intersection over union (IoU) between a predicted bounding box $\hat{B}$ and an annotated bounding box $B$, 
 
-```math
-\text{IoU}(B,\hat{B}) = \frac{\text{area}(B \cap \hat{B})}{\text{area}(B \cup \hat{B})}
-```
+![equation](\text{IoU}(B,\hat{B}) = \frac{\text{area}(B \cap \hat{B})}{\text{area}(B \cup \hat{B})})
+
 
