@@ -17,4 +17,5 @@ A standard performance indicator for object detection is to evaluate the interse
 
 ```math
 \text{IoU}(B,\hat{B}) = \frac{\text{area}(B \cap \hat{B})}{\text{area}(B \cup \hat{B})}
+```
 
